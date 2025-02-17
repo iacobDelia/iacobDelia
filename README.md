@@ -2,7 +2,8 @@
 ### C++
  - [Drone courier](https://github.com/iacobDelia/EGC-labs-hw/tree/main/src/lab_m1/Tema2) - OpenGL 3D project where you control a 3D drone
  - [Tank game](https://github.com/iacobDelia/EGC-labs-hw/tree/main/src/lab_m1/Tema1) - OpenGL 2D project where you fight an enemy tank
-### Java
+### Java 
+- [Content calendar](https://github.com/iacobDelia/Content-Calendar) - CRUD server implemented using Spring core and postgresql
  - [Java movie database](https://github.com/iacobDelia/Java-movie-database/tree/master) - IMDB-like application used for browsing movies
  - [Simple Calculator](https://github.com/iacobDelia/Simple-java-calculator) - a calculator with theme changing capabilities
 ### Python
